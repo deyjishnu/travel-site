@@ -1,0 +1,18 @@
+.slider .indicator {
+    bottom: -30px;
+}
+
+/* When tab is hovered */
+.tabs .tab a:hover {
+    background-color: #78909c;
+}
+
+/* When tab is active */
+.tabs .tab a.active {
+    background-color:#607d8b;
+}
+
+/* Incdicates tab is active */
+.tabs .indicator {
+    background-color:white;
+}
